@@ -8,7 +8,7 @@ banner:
     link: "/contact"
 
 # feature
-feature: 
+feature hhh: 
   title: Something You Need To Know
   features:
   - name: "Clean Code"
